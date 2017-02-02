@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BlogReader</string>
+    <string name="msg_welcome">¿Cuántas entradas del blog quieres leer?</string>
+    <string name="btn_leer">LEER!!</string>
+    <string name="toast_nvalido">Introduzca un numero valido</string>
+    <string name="campos_vacios">No puede dejar el campo vacio</string>
+</resources>
